@@ -1,6 +1,9 @@
 
 
-The repository conatins the Servlet , Jsp , Jdbc CRUD Operation in Zip File.
+The repository conatins the OOPS Conecpt ,Servlet , Jsp , Jdbc CRUD Operation in Zip File.
+
+# OOPS Concept
+ * It covers all the fundamental OOP principles using a sample Java program, providing a clear and practical implementation of encapsulation, inheritance, polymorphism, and abstraction.
 
 # Servlet CRUD Operation
 
